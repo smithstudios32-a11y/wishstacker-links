@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smithstudios.wishstacker",
+      "sha256_cert_fingerprints": [
+        "04:C3:70:AE:B2:2F:30:12:83:F7:70:37:70:BC:1E:CC:76:0C:88:85:82:54:7C:CD:78:59:D0:D5:F2:F4:63:50"
+      ]
+    }
+  }
+]
